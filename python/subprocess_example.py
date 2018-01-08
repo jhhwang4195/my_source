@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #!/usr/bin/python
 # Reference: http://stackabuse.com/pythons-os-and-subprocess-popen-commands/
 import subprocess
