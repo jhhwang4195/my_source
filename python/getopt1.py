@@ -3,6 +3,7 @@
 #Reference: https://pymotw.com/3/getopt/
 #Reference: http://www.dreamincode.net/forums/topic/53240-using-getopt-in-python/
 #Reference: https://raw.githubusercontent.com/dougsland/python-by-examples/master/getOpt.py
+
 import getopt
 import sys
 
@@ -11,15 +12,12 @@ verbose = False
 output_filename = 'default.out'
 
 try:
-	options, remainder = getopt.getopt(sys.argv[1:], 
-	'o:v', 
-	['output=', 
-	'verbose',
-	'version=',
-	])
+    options, remainder = getopt.getopt(sys.argv[1:],
+                                       'o:v',
+                                       ['output=', 'verbose', 'version='])
 except getopt.GetoptError as err:
-	print('ERROR:', err)
-	sys.exit(1)
+        print('ERROR:', err)
+        sys.exit(1)
 
 print ("ARGV: %s" % sys.argv[1:])
 print ("OPTIONS: %s" % options)
