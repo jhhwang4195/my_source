@@ -14,3 +14,13 @@ def signal_handler(signal, frame):
 signal.signal(signal.SIGINT, signal_handler)
 print('Press Ctrl+C')
 signal.pause()
+
+
+"""
+########################################
+# Result
+########################################
+Press Ctrl+C
+^CYou pressed Ctrl+C!
+signal=2, frame=<frame object at 0x7f451bbb5050>
+"""
