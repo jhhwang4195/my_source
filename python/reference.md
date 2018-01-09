@@ -8,3 +8,12 @@
 * http://www.bogotobogo.com/python/pytut.php
 * https://www.learnpython.org/
 * https://www.pythonsheets.com/
+
+## Python Cheat Sheet
+* https://www.cheatography.com/sschaub/cheat-sheets/essential-python/
+* http://www.astro.up.pt/~sousasag/Python_For_Astronomers/Python_qr.pdf
+* http://www.sixthresearcher.com/python-3-reference-cheat-sheet-for-beginners/
+* https://ddi.ifi.lmu.de/probestudium/2013/ws-i-3d-programmierung/tutorials/python-referenzkarte
+
+## Python String Cheat Sheet
+* https://www.shortcutfoo.com/app/dojos/python-strings/cheatsheet
