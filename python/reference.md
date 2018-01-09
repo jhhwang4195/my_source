@@ -7,3 +7,4 @@
 * https://www.tutorialspoint.com/python/
 * http://www.bogotobogo.com/python/pytut.php
 * https://www.learnpython.org/
+* https://www.pythonsheets.com/
