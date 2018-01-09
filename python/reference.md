@@ -1,5 +1,6 @@
 ## Reference
 * https://wikidocs.net/book/1
+* https://wikidocs.net/book/536
 * https://pymotw.com/2/contents.html
 * http://l4wisdom.com/python/python_threads.php
 * https://www.guru99.com/python-tutorials.html
@@ -12,6 +13,7 @@
 * http://xahlee.info/python/index.html
 * https://www.programiz.com/python-programming/
 * http://www.pythonforbeginners.com/
+* https://snippets.readthedocs.io/en/latest/
 
 ## Python Cheat Sheet
 * https://www.cheatography.com/sschaub/cheat-sheets/essential-python/
