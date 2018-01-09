@@ -84,8 +84,8 @@ def usage():
     print("  -h, --help        Print usage")
 
     print("\n")
-    printr("* ex) python github_test.py -u jhhwang4195 -p password -r TIL,my_source")
-    printr("* ex) python github_test.py -u jhhwang4195 -p password -a")
+    printr("* ex) python %s -u jhhwang4195 -p password -r TIL,my_source" % sys.argv[0])
+    printr("* ex) python %s -u jhhwang4195 -p password -a" % sys.argv[0])
     print("----------------------------------------------------------------------------")
 
 if __name__ == '__main__':
@@ -123,9 +123,11 @@ if __name__ == '__main__':
 
     if user is None:
         printr("[Error] -u option is None")
+        usage()
         sys.exit(-1)
     elif password is None:
         printr("[Error] -p option is None")
+        usage()
         sys.exit(-1)
     elif repos is None and all_repo is None:
         printr("[Error] -r option or -a option is None")
