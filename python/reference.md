@@ -9,6 +9,8 @@
 * http://www.bogotobogo.com/python/pytut.php
 * https://www.learnpython.org/
 * https://www.pythonsheets.com/
+* http://xahlee.info/python/index.html
+* https://www.programiz.com/python-programming/
 
 ## Python Cheat Sheet
 * https://www.cheatography.com/sschaub/cheat-sheets/essential-python/
@@ -18,3 +20,8 @@
 
 ## Python String Cheat Sheet
 * https://www.shortcutfoo.com/app/dojos/python-strings/cheatsheet
+
+## Python String Mehtod
+* http://xahlee.info/python/python_string_methods.htmla
+* https://www.programiz.com/python-programming/strings-method
+* https://www.tutorialspoint.com/python/python_strings.htm
