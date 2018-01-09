@@ -18,3 +18,17 @@ print 'My PID is:', os.getpid()
 while True:
     print 'Waiting...'
     time.sleep(3)
+
+
+"""
+########################################
+# Result
+########################################
+My PID is: 887
+Waiting...
+Waiting...
+^CTraceback (most recent call last):
+File "signal_signal.py", line 20, in <module>
+time.sleep(3)
+KeyboardInterrupt
+"""
