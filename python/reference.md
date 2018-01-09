@@ -16,6 +16,7 @@
 * https://snippets.readthedocs.io/en/latest/
 * http://www.teachyourselfpython.com/code-snippet.php
 * http://chimera.labs.oreilly.com/books/1230000000393/index.html
+* https://awesome-python.com/
 
 ## Github snippet
 * https://github.com/CoreyMSchafer/code_snippets
