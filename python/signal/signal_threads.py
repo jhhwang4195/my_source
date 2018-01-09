@@ -37,3 +37,15 @@ sender.join()
 print 'Waiting for', receiver
 signal.alarm(2)
 receiver.join()
+
+
+"""
+########################################
+# Result
+########################################
+Waiting for signal in <Thread(receiver, started 140222707390208)>
+Sending signal in <Thread(sender, started 140222629148416)>
+Received signal 10 in <_MainThread(MainThread, started 140222728279872)>
+Waiting for <Thread(receiver, started 140222707390208)>
+Alarm clock
+"""
