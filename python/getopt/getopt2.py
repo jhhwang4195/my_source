@@ -48,3 +48,17 @@ def usage():
 
 if __name__ == "__main__":
     main(sys.argv[1:])
+
+
+"""
+########################################
+# Result
+########################################
+$ python getopt2.py -e free -d -a test
+total       used       free     shared    buffers     cached
+Mem:       4046644    3900220     146424      44812     115744     516888
+-/+ buffers/cache:    3267588     779056
+Swap:      4191228     529816    3661412
+dothis
+test
+"""
