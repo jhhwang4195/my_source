@@ -56,3 +56,12 @@ if __name__ == "__main__":
         usage()
 
     print "car [%s] model [%s] year [%s]" % (car, model, year)
+
+
+"""
+########################################
+# Result
+########################################
+$ python getopt3.py --car palio --model basic --year 2012
+car [palio] model [basic] year [2012]
+"""
