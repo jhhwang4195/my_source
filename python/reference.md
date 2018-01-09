@@ -14,6 +14,8 @@
 * https://www.programiz.com/python-programming/
 * http://www.pythonforbeginners.com/
 * https://snippets.readthedocs.io/en/latest/
+* http://www.teachyourselfpython.com/code-snippet.php
+* http://chimera.labs.oreilly.com/books/1230000000393/index.html
 
 ## Github snippet
 * https://github.com/CoreyMSchafer/code_snippets
@@ -31,3 +33,7 @@
 * http://xahlee.info/python/python_string_methods.htmla
 * https://www.programiz.com/python-programming/strings-method
 * https://www.tutorialspoint.com/python/python_strings.htm
+
+## Blog
+* https://til.chann.kr/python/index
+* https://www.holaxprogramming.com/categories/python/
