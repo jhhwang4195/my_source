@@ -15,6 +15,9 @@
 * http://www.pythonforbeginners.com/
 * https://snippets.readthedocs.io/en/latest/
 
+## Github snippet
+* https://github.com/CoreyMSchafer/code_snippets
+
 ## Python Cheat Sheet
 * https://www.cheatography.com/sschaub/cheat-sheets/essential-python/
 * http://www.astro.up.pt/~sousasag/Python_For_Astronomers/Python_qr.pdf
