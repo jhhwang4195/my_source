@@ -11,3 +11,11 @@ print buf
 # Example2
 buf = "{} {}".format("Hello", "world")
 print buf
+
+"""
+########################################
+# Result
+########################################
+Hello World
+Hello world
+"""
