@@ -12,3 +12,25 @@ print ("#### split test2 ####")
 words = text.split(" ", 3)
 for word in words:
     print word
+
+"""
+########################################
+# Result
+########################################
+#### split test1 ####
+This
+is
+random
+text
+we
+are
+going
+to
+split
+apart
+#### split test2 ####
+This
+is
+random
+text we are going to split apart
+"""
