@@ -12,3 +12,18 @@ print ("\n#####list test")
 test_list = ['one', 'two', 'three']
 for i in test_list:
     print(i)
+
+"""
+########################################
+# Result
+########################################
+##### tuple test
+one
+two
+three
+
+#####list test
+one
+two
+three
+"""
