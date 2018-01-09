@@ -30,3 +30,15 @@ print time.ctime(), 'Waiting for', alarm_thread
 alarm_thread.join()
 
 print time.ctime(), 'Exiting normally'
+
+"""
+########################################
+# Result
+########################################
+Tue Jan  9 15:29:25 2018 Setting alarm in <Thread(alarm_thread, started 140591839737600)>
+Tue Jan  9 15:29:25 2018 Sleeping in <Thread(alarm_thread, started 140591839737600)>
+Tue Jan  9 15:29:25 2018 Waiting for <Thread(alarm_thread, started 140591839737600)>
+Tue Jan  9 15:29:28 2018 Done with sleep
+Tue Jan  9 15:29:28 2018 Alarm in <_MainThread(MainThread, started 140591860627264)>
+Tue Jan  9 15:29:28 2018 Exiting normally
+"""
