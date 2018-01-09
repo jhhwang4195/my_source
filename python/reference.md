@@ -11,6 +11,7 @@
 * https://www.pythonsheets.com/
 * http://xahlee.info/python/index.html
 * https://www.programiz.com/python-programming/
+* http://www.pythonforbeginners.com/
 
 ## Python Cheat Sheet
 * https://www.cheatography.com/sschaub/cheat-sheets/essential-python/
