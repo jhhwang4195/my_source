@@ -6,3 +6,4 @@
 * http://python-textbok.readthedocs.io/en/1.0/index.html
 * https://www.tutorialspoint.com/python/
 * http://www.bogotobogo.com/python/pytut.php
+* https://www.learnpython.org/
