@@ -16,3 +16,12 @@ signal.alarm(2)
 print 'Before:', time.ctime()
 time.sleep(4)
 print 'After :', time.ctime()
+
+"""
+########################################
+# Result
+########################################
+Before: Tue Jan  9 15:27:00 2018
+Alarm : Tue Jan  9 15:27:02 2018
+After : Tue Jan  9 15:27:02 2018
+"""
