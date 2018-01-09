@@ -34,3 +34,17 @@ print ("VERSION:%s" % version)
 print ("VERBOSE:%s" % verbose)
 print ("OUTPUT:%s" % output_filename)
 print ("REMAINING:%s" % remainder)
+
+
+"""
+########################################
+# Result
+########################################
+$ python getopt1.py -o file -v --version 2.1.1
+ARGV: ['-o', 'file', '-v', '--version', '2.1.1']
+OPTIONS: [('-o', 'file'), ('-v', ''), ('--version', '2.1.1')]
+VERSION:2.1.1
+VERBOSE:True
+OUTPUT:file
+REMAINING:[]
+"""
