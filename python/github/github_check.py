@@ -5,9 +5,9 @@
 import github3
 import os
 import pytz
-import datetime
 import sys
 import getopt
+from datetime import datetime
 
 local_tz = pytz.timezone('Asia/Seoul')
 
@@ -39,8 +39,10 @@ def get_repo_last_commit_delta_time(gh, user, repo):
 
 
 def get_delta_time(last_commit):
-    now = datetime.datetime.now(local_tz)
-    delta = now - last_commit
+    now = datetime.now(local_tz)
+    last_push_date = datetime(last_commit.year, last_commit.month, last_commit.day)
+    cur_date = datetime(now.year, now.month, now.day)
+    delta = cur_date - last_push_date
     return delta.days
 
 
