@@ -1,4 +1,5 @@
 #!/bin/bash
+#Reference: https://stackoverflow.com/questions/16483119/example-of-how-to-use-getopts-in-bash
 
 usage() { echo "Usage: $0 [-s <45|90>] [-p <string>]" 1>&2; exit 1; }
 
