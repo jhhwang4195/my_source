@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/python
+#Reference: https://dojang.io/mod/page/view.php?id=1039
 
 # initialize
 print("\n>>>>> TEST1")
