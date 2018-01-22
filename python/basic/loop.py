@@ -53,6 +53,11 @@ for i in range(5):
         print('*', end='')
     print()
 
+print('\n>>>TEST11')
+test_list = ['one', 'two', 'three']
+for idx, value in enumerate(test_list):
+	    print(idx, value)
+
 """
 ########################################
 # Result
@@ -123,4 +128,9 @@ Hello, world!
 *****
 *****
 *****
+
+>>>TEST11
+0 one
+1 two
+2 three
 """
